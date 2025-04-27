@@ -4,14 +4,12 @@
 
 ### **🔧 Topics Covered**  
 `Virtual Machines` | `RBAC` | `Azure AD` | `Policies` | `Encryption` | `Cost Management`  
+### **Scenario**
+
+A company wants to deploy a virtual machine for their web application, secure it with role-based access control, enforce a policy for naming conventions, encrypt sensitive data, and monitor the cost of the deployed resources.
 
 ### **📝 Summary**  
-Deployed and secured a virtual machine with:  
-✔ **RBAC implementation** for granular access control  
-✔ **Azure Policies** enforcing naming conventions  
-✔ **Disk encryption** for sensitive data protection  
-✔ **Cost monitoring** alerts with 95% accuracy  
-
+This project involves deploying a virtual machine, securing it using RBAC, applying Azure Policies for resource governance, encrypting sensitive data, and monitoring costs. It teaches foundational concepts for managing Azure identities, governance, and compute resources.
 ### **🖥️ Technical Implementation**  
 ```mermaid
 graph LR
