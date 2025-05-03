@@ -51,4 +51,5 @@ Connectivity: Successful RDP connection established.
 
 
 
-  
+  ![RDP connection](https://github.com/user-attachments/assets/0309583b-a9b7-45ed-ae8f-5cde2fef694d)
+
