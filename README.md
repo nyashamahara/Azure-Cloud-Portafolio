@@ -20,3 +20,7 @@ graph LR
     E --> F[Budget Alerts]
     style A fill:#0078D4
     style F fill:#4CAF50
+```
+## Virtual Machine Project
+For complete implementation details with screenshots:  
+[📁 Virtual Machine Creation Documentation](https://github.com/nyashamahara/Azure-Cloud-Portafolio/blob/main/Project-Overview/1-Resource-Setup/Virtual-Machine-Creation.md)
